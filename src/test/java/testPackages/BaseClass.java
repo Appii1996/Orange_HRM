@@ -63,6 +63,8 @@ public class BaseClass
 		report.flush();   //update all report whatever lister listen
 	//	logger.pass("test case is pass");  //only when it is needed to knw test case is failed or pass
 		
+		System.out.println("Nothing");  // checked for git bash only
+		
 		
 	}
 	
